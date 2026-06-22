@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/CloudAstro/terraform-vlsm-subnetting/compare/v1.0.0...v1.1.0) (2026-06-22)
+
+
+### Features
+
+* bump tf and provider version ([89cb806](https://github.com/CloudAstro/terraform-vlsm-subnetting/commit/89cb8065a16dfcc3d7c8f53897c2d2d26db5219f))
+
 ## 1.0.0 (2025-05-12)
 
 
